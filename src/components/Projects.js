@@ -20,6 +20,13 @@ function Projects() {
         "A responsive personal portfolio website showcasing my projects, skills, experience, and background. You're looking at it!",
       tags: ["React", "HTML", "CSS", "JavaScript", "GitHub"],
       github: "https://github.com/Im-Jessica-Fan/react_website",
+    },
+    {
+      title: "SeeSpecialist",
+      description:
+        "In the process of developing a full-stack doctor appointment booking website that allows users to sign up, find a clinic/specialist, and book appointments.",
+      tags: ["In Progress"],
+      github: null,
     }
   ]
 
