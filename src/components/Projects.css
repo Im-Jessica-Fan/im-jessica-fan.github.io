@@ -38,7 +38,7 @@
     max-width: 390px;
     padding: 35px;
     border-radius: 15px;
-    background-image: linear-gradient(rgba(236, 231, 221, 0.2), rgba(236, 231, 221, 0)), url('../../public/images/img-8.jpg');
+    background-image: linear-gradient(rgba(236, 231, 221, 0.5), rgba(236, 231, 221, 0)), url('../../public/images/img-8.jpg');
     background-position: center 40%;
     background-size: cover;
     transition: transform .3s ease;
@@ -57,10 +57,11 @@
 
 .project-card p {
     line-height:1.6;
+    /* color: black; */
     font-size:.95rem;
     margin-top:20px;
     flex-grow:1;
-    text-shadow: 0px 1px 4px rgba(255, 255, 255, 0.7);
+    text-shadow: 0px 1px 8px rgba(255, 255, 255);
 }
 
 .project-buttons {

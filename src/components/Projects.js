@@ -15,16 +15,37 @@ function Projects() {
       github: null    
     },
     {
+      title: "Credit Card Default Detection",
+      description:
+        "Built an ML classification pipeline to predict credit card defaults using EDA, feature engineering, and preprocessing.",
+      tags: ["Pandas","NumPy", "Scikit-learn", "Matplotlib", "Jupyter", "Git", "GitHub"],
+      github: "https://github.com/Im-Jessica-Fan/credit-card-default-detection"    
+    },
+    {
+      title: "Desktop Buddy",
+      description:
+        "Built an ML classification pipeline to predict credit card defaults using EDA, feature engineering, and preprocessing.",
+      tags: ["Python", "Git", "GitHub"],
+      github: "https://github.com/Im-Jessica-Fan/desktop_buddy"    
+    },
+    {
       title: "Personal Portfolio Website",
       description:
         "A responsive personal portfolio website showcasing my projects, skills, experience, and background. You're looking at it!",
-      tags: ["React", "HTML", "CSS", "JavaScript", "GitHub"],
+      tags: ["React", "HTML", "CSS", "JavaScript", "Git", "GitHub"],
       github: "https://github.com/Im-Jessica-Fan/react_website",
     },
     {
       title: "SeeSpecialist",
       description:
         "In the process of developing a full-stack doctor appointment booking website that allows users to sign up, find a clinic/specialist, and book appointments.",
+      tags: ["In Progress"],
+      github: null,
+    },
+    {
+      title: "Study Cafe",
+      description:
+        "In the process of developing a study cafe website that allows users to earn tokens while studying, and use those tokens towards decorating a cafe.",
       tags: ["In Progress"],
       github: null,
     }
