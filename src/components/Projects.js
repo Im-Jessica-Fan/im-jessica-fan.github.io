@@ -36,6 +36,20 @@ function Projects() {
       github: "https://github.com/Im-Jessica-Fan/react_website",
     },
     {
+      title: "DNA Sequence Analysis Tool",
+      description:
+        " DNA analysis tool with features such as reverse complement computation, nucleotide counting, RNA transcription and opening reading frame finder.",
+      tags: ["Python", "Git", "GitHub"],
+      github: "https://github.com/Im-Jessica-Fan/DNAAnalyser",
+    },
+    {
+      title: "Accomodation Finder Tool",
+      description:
+        "Accomodation finder tool that allows users to view available accommodations, rent a room and add new accomodations.",
+      tags: ["Java", "Git", "GitHub"],
+      github: "https://github.com/Im-Jessica-Fan/AccomodationFinder",
+    },
+    {
       title: "SeeSpecialist",
       description:
         "In the process of developing a full-stack doctor appointment booking website that allows users to sign up, find a clinic/specialist, and book appointments.",
