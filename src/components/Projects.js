@@ -8,45 +8,45 @@ function Projects() {
 
   const projects = [
     {
-      title: "ANDIE",
-      description:
-        "A Non-Destructive Image Editor that creates a Graphical User Interface (GUI) that provides access to various image editing and processing operations.",
-      tags: ["Java", "Git", "GitLab", "Gradle"],
-      github: null    
-    },
-    {
       title: "Credit Card Default Detection",
       description:
         "Built an ML classification pipeline to predict credit card defaults using EDA, feature engineering, and preprocessing.",
-      tags: ["Pandas","NumPy", "Scikit-learn", "Matplotlib", "Jupyter", "Git", "GitHub"],
+      tags: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Jupyter", "2026"],
       github: "https://github.com/Im-Jessica-Fan/credit-card-default-detection"    
     },
     {
       title: "Desktop Buddy",
       description:
         "Built an ML classification pipeline to predict credit card defaults using EDA, feature engineering, and preprocessing.",
-      tags: ["Python", "Git", "GitHub"],
+      tags: ["Python", "2026"],
       github: "https://github.com/Im-Jessica-Fan/desktop_buddy"    
     },
     {
       title: "Personal Portfolio Website",
       description:
         "A responsive personal portfolio website showcasing my projects, skills, experience, and background. You're looking at it!",
-      tags: ["React", "HTML", "CSS", "JavaScript", "Git", "GitHub"],
+      tags: ["React", "HTML", "CSS", "JavaScript", "Git", "GitHub Pages", "2026"],
       github: "https://github.com/Im-Jessica-Fan/react_website",
+    },
+    {
+      title: "ANDIE",
+      description:
+        "A Non-Destructive Image Editor that creates a Graphical User Interface (GUI) that provides access to various image editing and processing operations.",
+      tags: ["Java", "Git", "GitLab", "Gradle", "2025"],
+      github: null    
     },
     {
       title: "DNA Sequence Analysis Tool",
       description:
         " DNA analysis tool with features such as reverse complement computation, nucleotide counting, RNA transcription and opening reading frame finder.",
-      tags: ["Python", "Git", "GitHub"],
+      tags: ["Python", "2024"],
       github: "https://github.com/Im-Jessica-Fan/DNAAnalyser",
     },
     {
       title: "Accomodation Finder Tool",
       description:
         "Accomodation finder tool that allows users to view available accommodations, rent a room and add new accomodations.",
-      tags: ["Java", "Git", "GitHub"],
+      tags: ["Java", "2024"],
       github: "https://github.com/Im-Jessica-Fan/AccomodationFinder",
     },
     {
